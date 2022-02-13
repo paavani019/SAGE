@@ -1,0 +1,101 @@
+.box{
+  width: 500px;
+  padding: 100px;
+  text-align: left;
+  margin: 0px;
+
+}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Monaco", Monospace;}
+body, html {
+  height: 100%;
+  color: #190000;
+  line-height: 1.8 ;
+  
+}
+.secpic{
+  background-image: url("https://i.pinimg.com/564x/94/10/c4/9410c41ac699d49ab5b36a2049716c0b.jpg");
+  background-position: center;
+  min-height:400px;
+  min-width:100%;
+}
+.ci{
+text-align: centre;
+  margin: auto;
+  }
+.ww{
+float:left;
+}
+	.firstpic, .secpic {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+
+.firstpic {
+  background-image: url('https://i.pinimg.com/564x/54/0c/94/540c94b3df06d3b1f82a61ad8accb9b9.jpg');
+  min-height: 100%;
+}
+.fcc-btn {
+  background-color: #000000;
+  color: white;
+  padding: 5px 5px;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+}
+
+
+
+
+h1{
+color: #FFFFFF;
+}
+.hdr {
+            text-align: center;
+            background-color: black;
+            color: white;
+            font-size: 18px;
+        }
+        .cc{
+text-align: left;
+float:left;
+margin: 20px;
+}
+.ss{
+float:left;
+margin: 20px;
+}
+.dd{
+    color:#000000;
+    margin: 10px;
+     
+}
+.clr{
+color:#892424;
+background-color:#FFFFFF;
+width:500px;
+}
+
+.pic{
+margin: 20px;
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.AvMqzjUBzV-FI7DFh3FGZwHaFl&pid=Api&P=0&w=218&h=166');
+    background-repeat: no-repeat;
+    background-size: cover;
+     width: 600px;
+     text-align:center;
+ display:block;
+     }
+a:link{
+color:#000000;
+text-decoration:none;
+}
+a:visited{
+color:#76B9CF;
+text-decoration: none;
+}
+a:hover{
+color:#A52A2A;
+text-decoration: underline;
+}
